@@ -124,5 +124,11 @@ target/
 
 # Executables
 *.exe
+*.exe~
 *.out
 *.app
+
+# golang related things
+
+# Test binary, build with `go test -c`
+*.test
